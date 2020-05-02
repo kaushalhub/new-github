@@ -29,7 +29,7 @@ mongoose.Promise = global.Promise;
 //         useMongoClient: true
 // })
 
-mongoose.connect('mongodb://heroku_v6dp9kd8:o0j8gej067811k02mio7kgk8ak@ds333248.mlab.com:33248/heroku_v6dp9kd8',  {
+mongoose.connect('mongodb://heroku_rrct98wt:862hqra7cpvdu0kuv7f7v858bq@ds333248.mlab.com:33248/heroku_rrct98wt',  {
         useMongoClient: true
 })
 
